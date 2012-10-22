@@ -1,0 +1,8 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<area north="" west="" east="" south="A2">
+    <monsterlist>	
+		<monster type="flower" x="335" y="565" />
+		<monster type="flower" x="460" y="515" />		
+		<monster type="mushroom" x="375" y="325" />
+    </monsterlist>
+</area>
